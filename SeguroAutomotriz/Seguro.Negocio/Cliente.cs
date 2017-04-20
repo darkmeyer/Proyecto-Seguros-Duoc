@@ -53,5 +53,19 @@ namespace Seguro.Negocio
             }
         }
 
+        public bool validarCliente()
+        {
+            try
+            {
+                Seguro.DALC.CLIENTE cli = CommonBC.ModeloSeguro.CLIENTE.Where(c => c.)
+                return true;
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
+        }
+
     }
 }
