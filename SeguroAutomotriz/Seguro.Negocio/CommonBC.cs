@@ -11,7 +11,7 @@ namespace Seguro.Negocio
     {
         private static SeguroEntities _modeloSeguro;
 
-        public SeguroEntities ModeloSeguro
+        public static SeguroEntities ModeloSeguro
         {
             get 
             { 
