@@ -129,7 +129,9 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>19887</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:19887/</IISUrl>
+          <IISUrl>http://localhost:10407/</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>http://localhost:10407/</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
